@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 # Contact: nkokor@icloud.com
 
-# Skills: [![My Skills](https://skills.thijs.gg/icons?i=c,cpp,cs,java,javascript,python,html,css,react,dotnet,nodejs,mysql,unity,blender&theme=dark)](https://skills.thijs.gg)
+# Skills: [![My Skills](https://skills.thijs.gg/icons?i=c,cpp,cs,java,javascript,python,html,css,react,dotnet,nodejs,mysql,unity,blender,git&theme=dark)](https://skills.thijs.gg)
