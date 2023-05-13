@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **nkokor/nkokor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Contact: nkokor@icloud.com
+
+# Skills: [![My Skills](https://skills.thijs.gg/icons?i=c,cpp,cs,java,javascript,python,html,css,react,dotnet,nodejs,mysql,unity,blender&theme=dark)](https://skills.thijs.gg)
