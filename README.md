@@ -1,20 +1,12 @@
 
 
-<!--
-**nkokor/nkokor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me
 
-Here are some ideas to get you started:
+- 🔭 Interested in web and game development
+- 👯 Looking to collaborate with people with similar interests who can help me gain new skills
+- 🌱 Currently learning React JS and .NET Core
+- 📫 Contact me via: nkokor@icloud.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-# Contact: nkokor@icloud.com
-
-# Skills: [![My Skills](https://skills.thijs.gg/icons?i=c,cpp,cs,java,javascript,python,html,css,react,dotnet,nodejs,mysql,unity,blender,git&theme=dark)](https://skills.thijs.gg)
+# Skills
+[![My Skills](https://skills.thijs.gg/icons?i=c,cpp,cs,java,javascript,python,html,css,react,dotnet,nodejs,mysql,unity,blender,git&theme=dark)](https://skills.thijs.gg)
