@@ -7,6 +7,7 @@
 - 🌱 Currently learning React JS and .NET Core
 - 📫 Contact me via: nkokor@icloud.com
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkokor&theme=light)
 
 # Skills
 [![My Skills](https://skills.thijs.gg/icons?i=c,cpp,cs,java,javascript,python,html,css,react,dotnet,nodejs,mysql,unity,blender,git&theme=dark)](https://skills.thijs.gg)
