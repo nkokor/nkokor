@@ -4,7 +4,7 @@
 
 - 🔭 Interested in web and game development
 - 👯 Looking to collaborate with people with similar interests who can help me gain new skills
-- 🌱 Currently learning React JS and .NET Core
+- 🌱 Currently learning React JS 
 - 📫 Contact me via: nkokor@icloud.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkokor&layout=compact)
