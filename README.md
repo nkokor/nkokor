@@ -10,4 +10,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkokor&layout=compact)
 
 # Skills
-[![My Skills](https://skills.thijs.gg/icons?i=c,cpp,cs,java,javascript,python,html,css,react,dotnet,nodejs,mysql,unity,blender,git&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=c,cpp,cs,java,javascript,python,html,css,react,nodejs,mysql,unity,blender,git&theme=dark)](https://skills.thijs.gg)
