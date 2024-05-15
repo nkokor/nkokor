@@ -8,4 +8,4 @@
 - 📫 Contact me via email (nkokor@icloud.com) or my socials (links in bio)
 
 # Skills
-[![My Skills](https://skills.thijs.gg/icons?i=c,cpp,cs,java,javascript,python,html,css,react,nodejs,mysql,unity,blender,git&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,java,python,julia,js,html,css,react,git,blender)](https://skillicons.dev)
