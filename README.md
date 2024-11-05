@@ -3,8 +3,8 @@
 # About me
 
 - 🔭 Interested in web and game development
+- 🎃 Currently working on <a href='https://github.com/nkokor/Oddly-Ever-After'>Oddly Ever After</a>
 - 👯 Looking to connect with people with similar interests who can help me gain new skills
-- 🌱 Currently working on <a href='https://github.com/nkokor/bookland'>Bookland</a>
 - 📫 Contact me via email (nkokor@icloud.com) or my socials (links in bio)
 
 # Skills
